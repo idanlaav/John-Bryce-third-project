@@ -1,0 +1,58 @@
+.EditVacation {
+    margin-top: 40px;
+}
+
+.EditVacation > form {
+	width: 250px;
+}
+
+.EditVacation input, .EditVacation button {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.EditVacation > h2 {
+    text-align: center;
+}
+
+.EditVacation > form > div {
+    width: 240px;
+    font-size: medium;
+    color: red;
+    padding-bottom: 18px;
+    position: relative;
+    display: block;
+    text-align: center;
+    direction: rtl;
+}
+
+.EditVacation img {
+    width: 160px;
+    height: 160px;
+    position: relative;
+    margin-left: 100px;
+    margin-top: 10px;
+    transform: translate(-53px, -20px);
+    border: 1px solid black;
+    float: left;
+}
+
+.navLinkCss > a {
+    text-decoration: none;
+}
+
+.navLinkCss {
+    margin-top: 40px;
+}
+
+.EditVacation > form > div.imageCss {
+    padding-top: 5px;
+    width: 204px;
+    color: black;
+    padding-bottom: 18px;
+    position: relative;
+    display: block;
+    text-align: center;
+    direction: rtl;
+}

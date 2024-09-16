@@ -1,0 +1,32 @@
+.VacationAdminList {
+    margin-top: 25px;
+}
+
+.VacationAdminList>a {
+    position: absolute;
+    text-decoration: none;
+    transform: scale(1.2);
+}
+
+.VacationAdminList>div>a {
+    font-size: large;
+}
+
+.cardList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.navLinkCss>a {
+    text-decoration: none;
+}
+
+.navLinkCss {
+    position: sticky;
+    top: 0;
+    font-size: small;
+    font-weight:lighter;
+    margin-bottom: 20px;
+}

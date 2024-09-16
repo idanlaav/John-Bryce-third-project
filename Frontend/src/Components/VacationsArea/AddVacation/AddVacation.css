@@ -1,0 +1,35 @@
+.AddVacation > form {
+	width: 230px;
+}
+
+.AddVacation input, .AddVacation button {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 17px;
+}
+
+.AddVacation > h2 {
+    font-size: large;
+    text-align: center;
+}
+
+.AddVacation > form > div {
+    width: 230px;
+    font-size: medium;
+    color: red;
+    padding-bottom: 16px;
+    position: relative;
+    display: block;
+}
+
+.AddVacation, a {
+    font-size:small;
+}
+
+.navLinkCss > a {
+    text-decoration: none;
+}
+
+.navLinkCss {
+    margin-top: 25px;
+}

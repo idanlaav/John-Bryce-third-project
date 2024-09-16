@@ -1,0 +1,30 @@
+.FollowersReport {
+	text-align: center;
+    font-size: 1.3rem;
+    margin-top: 25px;
+}
+
+.TotalFollowers {
+    margin-top: 20px;
+}
+
+canvas{
+    width: auto !important;
+    height: auto !important;
+    max-height: 60vh;
+}
+
+.canvasDiv{
+    min-width: 60vh;
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    padding-top: 1vh;
+    margin: auto;
+}
+
+.navLinkCss > a {
+    text-decoration: none;
+}

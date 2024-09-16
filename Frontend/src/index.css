@@ -1,0 +1,35 @@
+html, body, #root, textarea {
+  margin: 0;
+  padding: 0;
+  height:  100%;
+  text-align: center;
+  font-style: italic;
+  color: rgb(0, 0, 0);
+  background-image: linear-gradient(140deg,white,rgb(197, 196, 195), white);
+}
+
+.Box {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px;
+  text-align: left;
+}
+
+.Box > p {
+  margin: 0;
+}
+
+button {
+  margin-left: 3px;
+  background-color: rgb(228, 251, 181);
+  color: brown;
+  border-radius: 12%;
+  font-weight: bold;
+}
+
+a {
+  color: rgb(190, 62, 62);;
+}
